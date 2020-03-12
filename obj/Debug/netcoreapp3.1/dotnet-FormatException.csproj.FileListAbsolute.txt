@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.exe
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.deps.json
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.dll
+D:\CodeGym\Practice\dotnet-FormatException\bin\Debug\netcoreapp3.1\dotnet-FormatException.pdb
+D:\CodeGym\Practice\dotnet-FormatException\obj\Debug\netcoreapp3.1\dotnet-FormatException.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-FormatException\obj\Debug\netcoreapp3.1\dotnet-FormatException.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-FormatException\obj\Debug\netcoreapp3.1\dotnet-FormatException.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-FormatException\obj\Debug\netcoreapp3.1\dotnet-FormatException.dll
+D:\CodeGym\Practice\dotnet-FormatException\obj\Debug\netcoreapp3.1\dotnet-FormatException.pdb
